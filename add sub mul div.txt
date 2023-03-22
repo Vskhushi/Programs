@@ -1,0 +1,13 @@
+class example4{
+  public static void main(String args[]){
+    int x=20,y=10, sum=0,sub=0,mul=0,div=0;
+    sum=x+y;
+    sub=x-y;
+    mul=x*y;
+    div=x/y;
+    System.out.println("addition is"+sum);
+    System.out.println("subtraction is"+sub);
+    System.out.println("product is"+mul);
+    System.out.println("division is"+div);
+  }
+}
