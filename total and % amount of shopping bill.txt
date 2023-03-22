@@ -1,0 +1,13 @@
+class example3{
+ 
+  public static void main(String args[]){
+
+    int ES=30000, SB1=5000, SB2=15000, SB3=1000, total, PA;
+    total=SB1+SB2+SB3;
+    PA=(total*100)/ES;
+    System.out.println("Total shopping bill is:" + total);
+    System.out.println("percentage amount is:" + PA);
+  }
+ 
+  
+}
