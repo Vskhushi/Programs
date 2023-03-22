@@ -1,0 +1,13 @@
+class example2{
+ 
+  public static void main(String args[]){
+
+    int sub1=50, sub2=70, sub3=90, total, avg;
+    total=sub1+sub2+sub3;
+    avg=total/3;
+    System.out.println("Total marks is:" + total);
+    System.out.println("Average marks is:" + avg);
+  }
+ 
+  
+}
